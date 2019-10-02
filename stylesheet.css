@@ -3,5 +3,9 @@ svg {
     margin-right: auto;
     display: block;
 }
+.padding{
+    text-align: center;
+    padding-top: 100px;
+}
 
 
